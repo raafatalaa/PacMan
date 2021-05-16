@@ -1,0 +1,5 @@
+﻿  Menu.cpp
+c:\users\hp\documents\visual studio 2013\projects\pacmantesting\pacmantesting\menu.cpp(12): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\hp\documents\visual studio 2013\projects\pacmantesting\pacmantesting\menu.cpp(18): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+c:\users\hp\documents\visual studio 2013\projects\pacmantesting\pacmantesting\menu.cpp(25): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+  pacmantesting.vcxproj -> C:\Users\hp\Documents\Visual Studio 2013\Projects\pacmantesting\Debug\pacmantesting.exe
